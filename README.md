@@ -72,4 +72,4 @@
 - Part 9: Seed data, validations, and helper methods
 - Part 10: Adding commentary: rants and raves
 - Part 11: Populating data for star ratings
-- Part 12: Deploying your project
+- Part 12: Deploying your project# RateRestRant
