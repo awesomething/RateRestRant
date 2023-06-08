@@ -72,4 +72,4 @@
 - Part 10: Adding commentary: rants and raves
 - Part 11: Populating data for star ratings
 - Part 12: Deploying your project# RateRestRant
-mongodb://127.0.0.1:27017
+ADD to dotenv mongodb://127.0.0.1:27017
